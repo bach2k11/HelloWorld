@@ -1,0 +1,9 @@
+﻿  Polynorm.cpp
+C:\Users\DELL\Desktop\OOP\OOP\OOP\Screen.h(17,19): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  (compiling source file 'Polynorm.cpp')
+  
+C:\Users\DELL\Desktop\OOP\OOP\OOP\Screen.h(17,22): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  (compiling source file 'Polynorm.cpp')
+  
+C:\Users\DELL\Desktop\OOP\OOP\Polynorm\Polynorm.cpp(42,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Polynorm.vcxproj -> C:\Users\DELL\Desktop\OOP\OOP\x64\Debug\Polynorm.exe

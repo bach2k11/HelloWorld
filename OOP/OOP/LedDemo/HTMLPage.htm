@@ -1,0 +1,52 @@
+<HTML>
+<HEAD>
+	<META NAME="GENERATOR" Content="Microsoft Visual Studio">
+	<TITLE>khia</TITLE>
+	<style>
+		div{
+			border:2px solid #F80;
+		}
+		#screen{
+			background-color:black;
+			padding:20px;
+		}
+		.led {
+			width: 100px;
+			height: 100px;
+			background-color:green;
+			display:inline-block;
+			margin: 20px;
+			border-radius: 70%;
+			border-width: 10;
+		}
+		.on {
+			background-color:red;
+		}
+	</style>
+</HEAD>
+<BODY>
+	<h1>LED DEMO<h1>
+	<div id="screen">
+	</div>
+	 <script>
+	   const n = 6;
+	   var scr = document.getElementById("screen");
+	   var leds = [];
+	   for (let i = 0; i < n; i++){
+		  var one = document.createElement("div");
+		  one.className = "led";
+		  scr.appendChild(leds[i] = one);
+	   }
+	   var value = 0x55;
+	   function write() {
+		   for(let i = 0; i < n; i++) {
+			   leds[i].className="led " + (value & (1 << i) ? "on" : "off");
+		   }
+	   }
+	   setInterval(()=>{
+		  write();
+		  value=~value;
+		}, 550);
+	 </script>
+</BODY>
+</HTML>
