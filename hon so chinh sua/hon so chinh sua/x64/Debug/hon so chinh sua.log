@@ -1,0 +1,15 @@
+﻿  hon so chinh sua.cpp
+C:\Users\DELL\Desktop\tệp cần\hon so chinh sua\hon so chinh sua\hon so chinh sua.cpp(162,28): error C2143: syntax error: missing ',' before '('
+C:\Users\DELL\Desktop\tệp cần\hon so chinh sua\hon so chinh sua\hon so chinh sua.cpp(172,1): error C2236: unexpected token 'class'. Did you forget a ';'?
+C:\Users\DELL\Desktop\tệp cần\hon so chinh sua\hon so chinh sua\hon so chinh sua.cpp(172,16): error C2059: syntax error: ':'
+C:\Users\DELL\Desktop\tệp cần\hon so chinh sua\hon so chinh sua\hon so chinh sua.cpp(164,54): error C2065: 'b': undeclared identifier
+C:\Users\DELL\Desktop\tệp cần\hon so chinh sua\hon so chinh sua\hon so chinh sua.cpp(164,58): error C2065: 'a': undeclared identifier
+C:\Users\DELL\Desktop\tệp cần\hon so chinh sua\hon so chinh sua\hon so chinh sua.cpp(164,61): error C2065: 'b': undeclared identifier
+C:\Users\DELL\Desktop\tệp cần\hon so chinh sua\hon so chinh sua\hon so chinh sua.cpp(172,17): error C2059: syntax error: 'public'
+C:\Users\DELL\Desktop\tệp cần\hon so chinh sua\hon so chinh sua\hon so chinh sua.cpp(172,38): error C2143: syntax error: missing ';' before '{'
+C:\Users\DELL\Desktop\tệp cần\hon so chinh sua\hon so chinh sua\hon so chinh sua.cpp(172,38): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\DELL\Desktop\tệp cần\hon so chinh sua\hon so chinh sua\hon so chinh sua.cpp(191,2): error C2065: 'Polynorm': undeclared identifier
+C:\Users\DELL\Desktop\tệp cần\hon so chinh sua\hon so chinh sua\hon so chinh sua.cpp(191,11): error C2146: syntax error: missing ';' before identifier 'y'
+C:\Users\DELL\Desktop\tệp cần\hon so chinh sua\hon so chinh sua\hon so chinh sua.cpp(191,11): error C3861: 'y': identifier not found
+C:\Users\DELL\Desktop\tệp cần\hon so chinh sua\hon so chinh sua\hon so chinh sua.cpp(192,10): error C3861: 'y': identifier not found
+C:\Users\DELL\Desktop\tệp cần\hon so chinh sua\hon so chinh sua\hon so chinh sua.cpp(192,26): error C3861: 'y': identifier not found
